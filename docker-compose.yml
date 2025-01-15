@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  postgres:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: wlmscreening_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: lokesh
+      POSTGRES_PASSWORD: lokesh
+      POSTGRES_DB: wlmscreening_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:

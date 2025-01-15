@@ -1,0 +1,2 @@
+from databaseconnection import initialize_db
+initialize_db()
