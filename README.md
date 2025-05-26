@@ -486,7 +486,7 @@ Authorization: Bearer <jwt_token>
 - 🌊 **AWS**: ECS, RDS, ElastiCache
 - ☁️ **Azure**: Container Instances, PostgreSQL, Redis Cache  
 - 🌩️ **GCP**: Cloud Run, Cloud SQL, Memorystore
-- 🚢 **Kubernetes**: Helm charts available in `/k8s` directory
+
 
 ---
 
