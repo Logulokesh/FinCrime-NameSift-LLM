@@ -502,3 +502,26 @@ Authorization: Bearer <jwt_token>
 - 🌐 Multi-language name processing support
 
 
+---
+
+<div align="center">
+
+[![Contributors](https://contrib.rocks/image?repo=Logulokesh/KinAI-Ecosystem)](https://github.com/Logulokesh/KinAI-Ecosystem/graphs/contributors)
+
+</div>
+
+---
+
+
+## 📄 License
+
+This project is entirely free to use — a contribution to the fight against financial crime 💼, a commitment to transparency 🔍, and a step toward a safer financial system 💳.
+
+---
+
+<div align="center">
+
+**Developed with dedication ⚖️ to integrity, security, and smart automation**
+
+</div>
+
